@@ -3,8 +3,10 @@
 Internship expreience
 
 Ukon
-react develeper
-
-format expreince
+react
+develeper
 carDekho
 
+#Education expreience
+
+Btech from Nsuit
