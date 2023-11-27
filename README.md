@@ -1,12 +1,11 @@
 # learninggit
 
-Internship expreience
+##Internship expreience
 
-Ukon
-react
-develeper
-carDekho
+-Ukon
+-react
+-carDekho
 
 #Education expreience
 
-Btech from Nsuit
+-Btech from Nsuit
